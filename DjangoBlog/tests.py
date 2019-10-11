@@ -54,3 +54,6 @@ class DjangoBlogTest(TestCase):
         self.assertTrue(s.find('nofollow') > 0)
         s = render.link('http://www.baidu.com', 'test', 'test')
         self.assertTrue(s.find('nofollow') > 0)
+
+
+
