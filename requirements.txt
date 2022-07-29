@@ -27,7 +27,7 @@ jsonpickle==1.2
 lazy-object-proxy==1.4.1
 markdown2==2.3.8
 mccabe==0.6.1
-mistune==0.8.4
+mistune==2.0.3
 mysqlclient==1.4.2.post1
 olefile==0.46
 packaging==19.1
